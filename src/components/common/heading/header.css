@@ -1,0 +1,30 @@
+
+.navbar-nav{
+    padding-left: 100px;
+}
+.nav-item{
+    padding-right: 12px;
+}
+.navbar-brand img{
+    width: 120px;
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.dropdown-item:hover{
+    background-color: rgb(103, 103, 230);
+    color: white;
+}
+.linklogo{
+    width: 50px;
+}

@@ -1,0 +1,29 @@
+.row{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.card{
+    border: none;
+
+}
+.card-text{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.card-img{
+    width: fit-content;
+}
+#profile{
+    background-color: rgb(87, 107, 216);
+    color: white;
+}
+#profile .card-img{
+    width: 80%;
+}
+#leaveRequest .card-img{
+    width: 80%;
+
+}
+.card-body .title-logo{
+    width: 50px;
+}

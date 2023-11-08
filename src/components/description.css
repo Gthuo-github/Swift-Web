@@ -1,0 +1,23 @@
+.desc{ 
+    background-color: white;
+    margin: 0;
+    display: block;
+}
+.row{
+
+    text-align: center;
+    align-items: center;
+}
+.card{
+    border: none;
+
+}
+.card-text{
+    font-size: 20px;
+    color: blue;
+}
+
+.card-body img{
+    height: 50%;
+    width: 50%;
+}
